@@ -1,0 +1,12 @@
+Name: Crash Dump  
+
+Lore:  
+Following an onboard anomaly, a space vehicle automatically logged raw telemetry from several key subsystems into storage. The log was later recovered by mission control for diagnostics. The data appears to be just typical sensor output… but one engineer on the team insists there's something odd about the encoding.
+
+Some suspect there is an embedded, hidden string — a sort of digital "Easter egg."
+
+Can you recover the message from the telemetry?
+
+
+Files Provided: crash_dump.csv  
+Flag Format: aeroCTF{...}
